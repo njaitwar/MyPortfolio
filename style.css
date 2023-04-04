@@ -232,6 +232,9 @@ color: dodgerblue;
     overflow: hidden;
     cursor: pointer;
 }
+.box1:hover img{
+    transform:scale(1.2);
+}
 .sp{
     font-size: 1.3rem;
     background: #222;
